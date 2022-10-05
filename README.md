@@ -1,10 +1,10 @@
 # challengeThreeUT
 
-<a href="https://l-jones-hub.github.io/challengeThreeUT/" title="" target="_blank">Deployed Site</a>
+<a href="https://l-jones-hub.github.io/Password-Generator/" title="" target="_blank">Deployed Site</a>
 
 ## Description
 
-This project's purpose is to randomly generate a password based on criteria entered by the user. 
+This project's purpose is to randomly generate a password based on criteria entered by the user.
 
 ## Usage
 
