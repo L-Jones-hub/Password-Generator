@@ -1,4 +1,4 @@
-# challengeThreeUT
+# Password Generator
 
 <a href="https://l-jones-hub.github.io/Password-Generator/" title="" target="_blank">Deployed Site</a>
 
